@@ -1,0 +1,71 @@
+{
+  "bulk": {
+    "negative": "1038",
+    "positive": "72"
+  },
+  "counties": {
+    "by_county": [
+      {
+        "county": "Dane",
+        "community_spread": true,
+        "cases": 19
+      },
+      {
+        "county": "Fond du Lac",
+        "community_spread": false,
+        "cases": 11
+      },
+      {
+        "county": "Kenosha",
+        "community_spread": true,
+        "cases": 4
+      },
+      {
+        "county": "Milwaukee",
+        "community_spread": true,
+        "cases": 24
+      },
+      {
+        "county": "Outagamie",
+        "community_spread": false,
+        "cases": 1
+      },
+      {
+        "county": "Pierce",
+        "community_spread": false,
+        "cases": 1
+      },
+      {
+        "county": "Racine",
+        "community_spread": false,
+        "cases": 1
+      },
+      {
+        "county": "Sheboygan",
+        "community_spread": false,
+        "cases": 3
+      },
+      {
+        "county": "Waukesha",
+        "community_spread": false,
+        "cases": 4
+      },
+      {
+        "county": "Winnebago",
+        "community_spread": false,
+        "cases": 3
+      },
+      {
+        "county": "Wood",
+        "community_spread": false,
+        "cases": 1
+      },
+      {
+        "county": "Total",
+        "community_spread": false,
+        "cases": 72
+      }
+    ],
+    "total": 72
+  }
+}
